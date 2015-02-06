@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/klaasroobroeck/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-be9913203f7da404b72231b5665563610a884263.jar" />
+    </item>
+    <item
+        jar="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/pre-dexed/debug/classes-0773597f616db83995bd5ad9ef5893d98b85c753.jar" />
+    </item>
+    <item
+        jar="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/pre-dexed/debug/classes-f79c2cd91439da513f13531994b8d08fcb1fefd1.jar" />
+    </item>
+    <item
+        jar="/Users/klaasroobroeck/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-2b1f167c996929877a0d2e9a1951324f8d016c53.jar" />
+    </item>
+    <item
+        jar="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/klaasroobroeck/Downloads/Rotation/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b350a89c61de54fda275a6a60862cb2886689ab8.jar" />
+    </item>
+
+</items>
